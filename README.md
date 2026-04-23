@@ -1,5 +1,5 @@
 Sup, I'm Gustavo, I live in the terminal, building random stuff with code and breaking linux configs.
-Currently figuring out full-stack dev + ai.
+Currently figuring out full-stack dev + ai and surviving college (that's why there's so many assignments here).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmunix/gmunix/main/info-dark.png">
